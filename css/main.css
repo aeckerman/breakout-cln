@@ -1,0 +1,21 @@
+* {
+	padding: 0;
+	margin: 0;
+	font-family: 'Roboto Mono', 'Open Sans';
+}
+
+#scoreId {
+	padding-top: 10px;
+}
+
+canvas {
+	background: #383838;
+	display: block;
+	margin: 0 auto;
+	margin-top: 50px;
+}
+
+body {
+	background: #000;
+	color: #fff;
+}
